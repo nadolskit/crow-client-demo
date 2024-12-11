@@ -4,5 +4,5 @@ Minimal Setup:
 uv venv
 source .venv/bin/activate
 uv pip install crow-client
-uv uv pip install ipykernel (for jupyter notebook)
+uv pip install ipykernel (for jupyter notebook)
 ```
